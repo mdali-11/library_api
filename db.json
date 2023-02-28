@@ -173,6 +173,17 @@
           "position": "Junior Frontend Developer",
           "language": "Java"
         }
+      ],
+
+      "users":[
+        {
+          "id":1,
+          "name": "Md Ali",
+          "email": "ali@gmail.com",
+          "password": "123456"
+        }
+
+
       ]
   }
 
