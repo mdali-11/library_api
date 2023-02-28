@@ -134,7 +134,7 @@
         }
       ],
 
-      "burrow": [
+      "borrow": [
         {
           "id": "1",
           "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
@@ -146,5 +146,33 @@
           "cost": 1249,
           "borrowed": false
         }
+      ],
+
+      "jobs":[
+        {
+          "id":1,
+          "company": "Ellette",
+          "postedAt": "2021-03-30",
+          "city": "Gangtok",
+          "location": "American Samoa",
+          "role": "Frontend",
+          "level": "Junior",
+          "contract": "Full Time",
+          "position": " Backend Developer",
+          "language": "Java"
+        },
+        {
+          "id":2,
+          "company": "Jinny",
+          "postedAt": "2021-09-09",
+          "city": "Ludhiana",
+          "location": "Belgium",
+          "role": "FullStack",
+          "level": "Junior",
+          "contract": "Full Time",
+          "position": "Junior Frontend Developer",
+          "language": "Java"
+        }
       ]
   }
+
